@@ -1,4 +1,4 @@
-local message = "more script keyless here https://discord.gg/yXfAsJ92"
+local message = "more script keyless here https://discord.gg/KXY9VTX4"
 
 if setclipboard then
     setclipboard(message)
